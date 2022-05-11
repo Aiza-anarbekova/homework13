@@ -15,6 +15,14 @@ public class Class {
         this.number = number;
     }
 
+    public void setWord(String word) {
+        this.word = word;
+    }
+
+    public void setArray(int[] array) {
+        this.array = array;
+    }
+
     public int getNumber() {
         return number;
     }
